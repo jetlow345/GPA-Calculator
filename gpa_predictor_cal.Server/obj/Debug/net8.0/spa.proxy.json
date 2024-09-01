@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "D:\\Web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.Server\\..\\gpa_predictor_cal.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
