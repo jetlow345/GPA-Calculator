@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.Server\\gpa_predictor_cal.Server.csproj": {}
+    "/Users/jiangxiachen/uq-score-cal/GPA-Calculator/gpa_predictor_cal.Server/gpa_predictor_cal.Server.csproj": {}
   },
   "projects": {
-    "D:\\Web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.Server\\gpa_predictor_cal.Server.csproj": {
+    "/Users/jiangxiachen/uq-score-cal/GPA-Calculator/gpa_predictor_cal.Server/gpa_predictor_cal.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.Server\\gpa_predictor_cal.Server.csproj",
+        "projectUniqueName": "/Users/jiangxiachen/uq-score-cal/GPA-Calculator/gpa_predictor_cal.Server/gpa_predictor_cal.Server.csproj",
         "projectName": "gpa_predictor_cal.Server",
-        "projectPath": "D:\\Web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.Server\\gpa_predictor_cal.Server.csproj",
-        "packagesPath": "C:\\Users\\jetlo\\.nuget\\packages\\",
-        "outputPath": "D:\\Web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.Server\\obj\\",
+        "projectPath": "/Users/jiangxiachen/uq-score-cal/GPA-Calculator/gpa_predictor_cal.Server/gpa_predictor_cal.Server.csproj",
+        "packagesPath": "/Users/jiangxiachen/.nuget/packages/",
+        "outputPath": "/Users/jiangxiachen/uq-score-cal/GPA-Calculator/gpa_predictor_cal.Server/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "D:\\Users\\jetlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/jiangxiachen/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -74,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/gpa_predictor_cal.Server.props" />
+</Project>

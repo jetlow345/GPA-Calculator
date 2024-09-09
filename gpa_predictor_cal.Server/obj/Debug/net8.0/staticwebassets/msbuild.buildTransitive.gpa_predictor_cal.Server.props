@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/gpa_predictor_cal.Server.props" />
+</Project>
