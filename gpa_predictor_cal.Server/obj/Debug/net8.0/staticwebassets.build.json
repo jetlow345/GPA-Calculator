@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "Bt1RZix+V0pHPSObksaEcdycyRoXO5w5ZGMboMU35cw=",
+  "Source": "gpa_predictor_cal.Server",
+  "BasePath": "_content/gpa_predictor_cal.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/Users/jiangxiachen/uq-score-cal/GPA-Calculator/gpa_predictor_cal.client/gpa_predictor_cal.client.esproj",
+      "Version": 2,
+      "Source": "gpa_predictor_cal.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
