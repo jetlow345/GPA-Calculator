@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gpa_predictor_cal.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56a8f44ddc9f59c486e59d0e69c1ff7c772f441b")]
 [assembly: System.Reflection.AssemblyProductAttribute("gpa_predictor_cal.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gpa_predictor_cal.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
