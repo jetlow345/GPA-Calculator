@@ -34,3 +34,39 @@
 /Users/jiangxiachen/uq-score-cal/GPA-Calculator/gpa_predictor_cal.Server/obj/Debug/net8.0/gpa_predictor_cal.Server.pdb
 /Users/jiangxiachen/uq-score-cal/GPA-Calculator/gpa_predictor_cal.Server/obj/Debug/net8.0/gpa_predictor_cal.Server.genruntimeconfig.cache
 /Users/jiangxiachen/uq-score-cal/GPA-Calculator/gpa_predictor_cal.Server/obj/Debug/net8.0/ref/gpa_predictor_cal.Server.dll
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\bin\Debug\net8.0\appsettings.Development.json
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\bin\Debug\net8.0\appsettings.json
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\bin\Debug\net8.0\spa.proxy.json
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\bin\Debug\net8.0\gpa_predictor_cal.Server.exe
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\bin\Debug\net8.0\gpa_predictor_cal.Server.deps.json
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\bin\Debug\net8.0\gpa_predictor_cal.Server.runtimeconfig.json
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\bin\Debug\net8.0\gpa_predictor_cal.Server.dll
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\bin\Debug\net8.0\gpa_predictor_cal.Server.pdb
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\obj\Debug\net8.0\gpa_predictor_cal.Server.csproj.AssemblyReference.cache
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\obj\Debug\net8.0\spa.proxy.json
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\obj\Debug\net8.0\gpa_predictor_cal.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\obj\Debug\net8.0\gpa_predictor_cal.Server.AssemblyInfoInputs.cache
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\obj\Debug\net8.0\gpa_predictor_cal.Server.AssemblyInfo.cs
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\obj\Debug\net8.0\gpa_predictor_cal.Server.csproj.CoreCompileInputs.cache
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\obj\Debug\net8.0\gpa_predictor_cal.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\obj\Debug\net8.0\gpa_predictor_cal.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\obj\Debug\net8.0\gpa_predictor_cal.Server.sourcelink.json
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\obj\Debug\net8.0\staticwebassets.build.json
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\obj\Debug\net8.0\staticwebassets.development.json
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\obj\Debug\net8.0\staticwebassets\msbuild.gpa_predictor_cal.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.gpa_predictor_cal.Server.props
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.gpa_predictor_cal.Server.props
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.gpa_predictor_cal.Server.props
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\obj\Debug\net8.0\scopedcss\bundle\gpa_predictor_cal.Server.styles.css
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\obj\Debug\net8.0\gpa_pred.6FAC923D.Up2Date
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\obj\Debug\net8.0\gpa_predictor_cal.Server.dll
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\obj\Debug\net8.0\refint\gpa_predictor_cal.Server.dll
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\obj\Debug\net8.0\gpa_predictor_cal.Server.pdb
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\obj\Debug\net8.0\gpa_predictor_cal.Server.genruntimeconfig.cache
+D:\Web developer journey\gpa_predictor_cal\gpa_predictor_cal.Server\obj\Debug\net8.0\ref\gpa_predictor_cal.Server.dll

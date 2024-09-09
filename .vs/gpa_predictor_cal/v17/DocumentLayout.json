@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Web developer journey\\gpa_predictor_cal\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B099BC-ACF3-43F4-8D21-BBFB2664B740}|gpa_predictor_cal.client\\gpa_predictor_cal.client.esproj|d:\\web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{B2B099BC-ACF3-43F4-8D21-BBFB2664B740}|gpa_predictor_cal.client\\gpa_predictor_cal.client.esproj|solutionrelative:gpa_predictor_cal.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "App.jsx",
-              "DocumentMoniker": "D:\\Web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.client\\src\\App.jsx",
-              "RelativeDocumentMoniker": "gpa_predictor_cal.client\\src\\App.jsx",
-              "ToolTip": "D:\\Web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.client\\src\\App.jsx",
-              "RelativeToolTip": "gpa_predictor_cal.client\\src\\App.jsx",
-              "ViewState": "AQIAACIAAAAAAAAAAAAkwDoAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-09-09T10:01:37.274Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

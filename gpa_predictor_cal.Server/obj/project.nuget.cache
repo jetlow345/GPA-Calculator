@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "LCGvmMtWdEWSo2Z103Xbn8VnJY4CbnnOUEFY03CZcgVrPbLPprPxZz2FQwlaISOYo71o3QK0k4U+rfi9pONgNw==",
+  "dgSpecHash": "Y73ZlM2IClw=",
   "success": true,
-  "projectFilePath": "/Users/jiangxiachen/uq-score-cal/GPA-Calculator/gpa_predictor_cal.Server/gpa_predictor_cal.Server.csproj",
+  "projectFilePath": "D:\\Web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.Server\\gpa_predictor_cal.Server.csproj",
   "expectedPackageFiles": [
-    "/Users/jiangxiachen/.nuget/packages/microsoft.aspnetcore.spaproxy/8.0.8/microsoft.aspnetcore.spaproxy.8.0.8.nupkg.sha512",
-    "/Users/jiangxiachen/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "/Users/jiangxiachen/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
-    "/Users/jiangxiachen/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
-    "/Users/jiangxiachen/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
-    "/Users/jiangxiachen/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "/Users/jiangxiachen/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+    "C:\\Users\\jetlo\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.8\\microsoft.aspnetcore.spaproxy.8.0.8.nupkg.sha512",
+    "C:\\Users\\jetlo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\jetlo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\jetlo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\jetlo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\jetlo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\jetlo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
   ],
   "logs": []
 }
