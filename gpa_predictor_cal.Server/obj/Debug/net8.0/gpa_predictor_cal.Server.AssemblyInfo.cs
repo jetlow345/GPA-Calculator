@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gpa_predictor_cal.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fb9d6f89a384e6a0386de85371903201c332928")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+197aca5fd61765d0f2d34c77ba52bd7c0a94cfa0")]
 [assembly: System.Reflection.AssemblyProductAttribute("gpa_predictor_cal.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gpa_predictor_cal.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
