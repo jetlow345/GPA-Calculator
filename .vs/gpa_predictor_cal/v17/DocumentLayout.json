@@ -7,6 +7,30 @@
       "RelativeMoniker": "D:0:0:{B2B099BC-ACF3-43F4-8D21-BBFB2664B740}|gpa_predictor_cal.client\\gpa_predictor_cal.client.esproj|solutionrelative:gpa_predictor_cal.client\\src\\components\\content\\content.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B2B099BC-ACF3-43F4-8D21-BBFB2664B740}|gpa_predictor_cal.client\\gpa_predictor_cal.client.esproj|d:\\web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.client\\src\\components\\userprofileform\\userprofileform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B2B099BC-ACF3-43F4-8D21-BBFB2664B740}|gpa_predictor_cal.client\\gpa_predictor_cal.client.esproj|solutionrelative:gpa_predictor_cal.client\\src\\components\\userprofileform\\userprofileform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B099BC-ACF3-43F4-8D21-BBFB2664B740}|gpa_predictor_cal.client\\gpa_predictor_cal.client.esproj|d:\\web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B2B099BC-ACF3-43F4-8D21-BBFB2664B740}|gpa_predictor_cal.client\\gpa_predictor_cal.client.esproj|solutionrelative:gpa_predictor_cal.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B099BC-ACF3-43F4-8D21-BBFB2664B740}|gpa_predictor_cal.client\\gpa_predictor_cal.client.esproj|d:\\web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.client\\src\\components\\usercontext\\usercontext.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B2B099BC-ACF3-43F4-8D21-BBFB2664B740}|gpa_predictor_cal.client\\gpa_predictor_cal.client.esproj|solutionrelative:gpa_predictor_cal.client\\src\\components\\usercontext\\usercontext.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B099BC-ACF3-43F4-8D21-BBFB2664B740}|gpa_predictor_cal.client\\gpa_predictor_cal.client.esproj|d:\\web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.client\\src\\components\\content\\content.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B2B099BC-ACF3-43F4-8D21-BBFB2664B740}|gpa_predictor_cal.client\\gpa_predictor_cal.client.esproj|solutionrelative:gpa_predictor_cal.client\\src\\components\\content\\content.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B099BC-ACF3-43F4-8D21-BBFB2664B740}|gpa_predictor_cal.client\\gpa_predictor_cal.client.esproj|d:\\web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.client\\src\\components\\footer\\footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B2B099BC-ACF3-43F4-8D21-BBFB2664B740}|gpa_predictor_cal.client\\gpa_predictor_cal.client.esproj|solutionrelative:gpa_predictor_cal.client\\src\\components\\footer\\footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B099BC-ACF3-43F4-8D21-BBFB2664B740}|gpa_predictor_cal.client\\gpa_predictor_cal.client.esproj|d:\\web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.client\\src\\components\\footer\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B2B099BC-ACF3-43F4-8D21-BBFB2664B740}|gpa_predictor_cal.client\\gpa_predictor_cal.client.esproj|solutionrelative:gpa_predictor_cal.client\\src\\components\\footer\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B2B099BC-ACF3-43F4-8D21-BBFB2664B740}|gpa_predictor_cal.client\\gpa_predictor_cal.client.esproj|d:\\web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{B2B099BC-ACF3-43F4-8D21-BBFB2664B740}|gpa_predictor_cal.client\\gpa_predictor_cal.client.esproj|solutionrelative:gpa_predictor_cal.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -22,8 +46,99 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.css",
+              "DocumentMoniker": "D:\\Web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.client\\src\\App.css",
+              "RelativeDocumentMoniker": "gpa_predictor_cal.client\\src\\App.css",
+              "ToolTip": "D:\\Web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.client\\src\\App.css",
+              "RelativeToolTip": "gpa_predictor_cal.client\\src\\App.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-12T15:41:52.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "footer.jsx",
+              "DocumentMoniker": "D:\\Web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.client\\src\\components\\Footer\\footer.jsx",
+              "RelativeDocumentMoniker": "gpa_predictor_cal.client\\src\\components\\Footer\\footer.jsx",
+              "ToolTip": "D:\\Web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.client\\src\\components\\Footer\\footer.jsx",
+              "RelativeToolTip": "gpa_predictor_cal.client\\src\\components\\Footer\\footer.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-12T15:38:29.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "footer.css",
+              "DocumentMoniker": "D:\\Web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.client\\src\\components\\Footer\\footer.css",
+              "RelativeDocumentMoniker": "gpa_predictor_cal.client\\src\\components\\Footer\\footer.css",
+              "ToolTip": "D:\\Web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.client\\src\\components\\Footer\\footer.css",
+              "RelativeToolTip": "gpa_predictor_cal.client\\src\\components\\Footer\\footer.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-12T15:38:26.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "content.css",
+              "DocumentMoniker": "D:\\Web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.client\\src\\components\\Content\\content.css",
+              "RelativeDocumentMoniker": "gpa_predictor_cal.client\\src\\components\\Content\\content.css",
+              "ToolTip": "D:\\Web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.client\\src\\components\\Content\\content.css",
+              "RelativeToolTip": "gpa_predictor_cal.client\\src\\components\\Content\\content.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-12T15:36:05.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserContext.jsx",
+              "DocumentMoniker": "D:\\Web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.client\\src\\components\\UserContext\\UserContext.jsx",
+              "RelativeDocumentMoniker": "gpa_predictor_cal.client\\src\\components\\UserContext\\UserContext.jsx",
+              "ToolTip": "D:\\Web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.client\\src\\components\\UserContext\\UserContext.jsx",
+              "RelativeToolTip": "gpa_predictor_cal.client\\src\\components\\UserContext\\UserContext.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-12T15:23:33.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.jsx",
+              "DocumentMoniker": "D:\\Web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "gpa_predictor_cal.client\\src\\App.jsx",
+              "ToolTip": "D:\\Web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.client\\src\\App.jsx",
+              "RelativeToolTip": "gpa_predictor_cal.client\\src\\App.jsx",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-12T15:13:47.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserProfileForm.jsx",
+              "DocumentMoniker": "D:\\Web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.client\\src\\components\\UserProfileForm\\UserProfileForm.jsx",
+              "RelativeDocumentMoniker": "gpa_predictor_cal.client\\src\\components\\UserProfileForm\\UserProfileForm.jsx",
+              "ToolTip": "D:\\Web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.client\\src\\components\\UserProfileForm\\UserProfileForm.jsx",
+              "RelativeToolTip": "gpa_predictor_cal.client\\src\\components\\UserProfileForm\\UserProfileForm.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-12T15:12:18.518Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,27 +147,14 @@
               "RelativeDocumentMoniker": "gpa_predictor_cal.client\\src\\components\\Content\\content.jsx",
               "ToolTip": "D:\\Web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.client\\src\\components\\Content\\content.jsx",
               "RelativeToolTip": "gpa_predictor_cal.client\\src\\components\\Content\\content.jsx",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAUwF4AAAAoAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwCwAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2024-09-11T08:44:14.252Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "App.css",
-              "DocumentMoniker": "D:\\Web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.client\\src\\App.css",
-              "RelativeDocumentMoniker": "gpa_predictor_cal.client\\src\\App.css",
-              "ToolTip": "D:\\Web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.client\\src\\App.css",
-              "RelativeToolTip": "gpa_predictor_cal.client\\src\\App.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-11T08:41:10.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "declarations.d.ts",
               "DocumentMoniker": "D:\\Web developer journey\\gpa_predictor_cal\\gpa_predictor_cal.client\\src\\declarations.d.ts",
               "RelativeDocumentMoniker": "gpa_predictor_cal.client\\src\\declarations.d.ts",
@@ -60,8 +162,7 @@
               "RelativeToolTip": "gpa_predictor_cal.client\\src\\declarations.d.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-11T08:41:04.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T08:41:04.65Z"
             }
           ]
         }

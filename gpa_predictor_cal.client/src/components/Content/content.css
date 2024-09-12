@@ -1,42 +1,25 @@
 .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Full viewport height */
     padding: 20px;
+}
+
+.welcome-message {
+    text-align: center; /* Center text alignment */
+    background-color: #f8f9fa; /* Optional: Light background for better visibility */
+    padding: 20px; /* Padding around the content */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow for depth */
+    margin-bottom: 20px; /* Space between welcome message and other content */
 }
 
 .card-container {
     display: flex;
     flex-wrap: wrap;
-    gap: 20px;
     justify-content: center;
-}
-
-.card {
-    background-color: #fff;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    width: 250px; /* Adjust width as needed */
-    overflow: hidden;
-    text-align: center;
-}
-
-.card-body {
-    padding: 15px;
-}
-
-.card-title {
-    font-size: 1.25rem;
-    margin-bottom: 10px;
-}
-
-.card-text {
-    font-size: 1rem;
-    margin-bottom: 15px;
-}
-
-.btn {
-    margin-top: 10px;
-}
-
-h1 {
-    text-align: center;
+    gap: 20px; /* Space between cards */
+    margin-top: 20px; /* Space above card container */
 }

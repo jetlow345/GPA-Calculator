@@ -1,26 +1,24 @@
-import React, { useState } from 'react';
+// src/components/Content/Content.jsx
+import React from 'react';
+import { useUserContext } from '../UserContext/UserContext';
+import { Button, Modal, Form } from 'react-bootstrap';
 import './content.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Modal, Button, Form } from 'react-bootstrap';
 
 export function Content() {
-    // State to manage cards, modal visibility, and the new subject and score
-    const [cards, setCards] = useState([]);
-    const [showModal, setShowModal] = useState(false);
-    const [newSubject, setNewSubject] = useState('');
-    const [newScore, setNewScore] = useState('');
+    const { userData } = useUserContext(); // Access user data from context
+    const [cards, setCards] = React.useState([]);
+    const [showModal, setShowModal] = React.useState(false);
+    const [newSubject, setNewSubject] = React.useState('');
+    const [newScore, setNewScore] = React.useState('');
 
-    // Function to handle showing the modal
     const handleShowModal = () => setShowModal(true);
-
-    // Function to handle hiding the modal
     const handleCloseModal = () => {
         setNewSubject('');
         setNewScore('');
         setShowModal(false);
     };
 
-    // Function to handle adding a new card with a subject and predicted score
     const addCard = () => {
         if (newSubject.trim() && newScore.trim() && !isNaN(newScore)) {
             setCards([...cards, { subject: newSubject, score: parseFloat(newScore) }]);
@@ -30,12 +28,10 @@ export function Content() {
         }
     };
 
-    // Function to handle deleting a card
     const deleteCard = (index) => {
         setCards(cards.filter((_, i) => i !== index));
     };
 
-    // Function to handle button click
     const handleClick = (cardNumber) => {
         alert(`Button ${cardNumber} clicked!`);
     };
@@ -43,36 +39,33 @@ export function Content() {
     return (
         <div className="content">
             <div className="welcome-message">
-                <h1>Welcome James!</h1>
-                <p>Your GPA calculator that ace</p>
+                <h1>Welcome, {userData.name}!</h1>
+                <p>Your GPA calculator that helps you ace your studies</p>
+                <p>Location: {userData.location}</p>
+                <p>Age: {userData.age}</p>
+                <p>Objective: {userData.objective}</p>
+                <p>University: {userData.university}</p>
+                <p>Degree: {userData.degree}</p>
+                <p>Scoring Goal: {userData.scoreGoal}</p>
             </div>
+
             <div className="card-container">
                 {cards.map((card, index) => (
                     <div className="card" key={index}>
                         <div className="card-body">
                             <h5 className="card-title">{card.subject || `Card ${index + 1}`}</h5>
                             <p className="card-text">Predicted Score: {card.score !== undefined ? card.score.toFixed(2) : 'No score'}</p>
-                            <button
-                                className="btn btn-primary"
-                                onClick={() => handleClick(index + 1)}
-                            >
-                                Click Me
-                            </button>
-                            <button
-                                className="btn btn-danger ms-2"
-                                onClick={() => deleteCard(index)}
-                            >
-                                Delete
-                            </button>
+                            <button className="btn btn-primary" onClick={() => handleClick(index + 1)}>Click Me</button>
+                            <button className="btn btn-danger ms-2" onClick={() => deleteCard(index)}>Delete</button>
                         </div>
                     </div>
                 ))}
             </div>
+
             <Button className="btn btn-secondary mt-3" onClick={handleShowModal}>
                 Add Card
             </Button>
 
-            {/* Modal for entering subject and predicted score */}
             <Modal show={showModal} onHide={handleCloseModal}>
                 <Modal.Header closeButton>
                     <Modal.Title>Enter Subject and Predicted Score</Modal.Title>
@@ -102,10 +95,10 @@ export function Content() {
                 </Modal.Body>
                 <Modal.Footer>
                     <Button variant="secondary" onClick={handleCloseModal}>
-                        Cancel
+                        Close
                     </Button>
                     <Button variant="primary" onClick={addCard}>
-                        Add Card
+                        Save Changes
                     </Button>
                 </Modal.Footer>
             </Modal>
