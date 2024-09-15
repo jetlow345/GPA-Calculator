@@ -3,7 +3,7 @@ import './content.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Modal, Button, Form } from 'react-bootstrap';
 
-export function Content() {
+export default function Content() {
     // State to manage cards, modal visibility, and the new subject and score
     const [cards, setCards] = useState([]);
     const [showModal, setShowModal] = useState(false);

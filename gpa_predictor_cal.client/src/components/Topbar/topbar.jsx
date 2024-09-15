@@ -3,7 +3,7 @@ import './topbar.css';
 import UserImg from '../properties/img/test-user.png';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-export function Topbar() {
+export default function Topbar() {
     return (
         <div className="topbar">
             <div className="topbar-user-img">

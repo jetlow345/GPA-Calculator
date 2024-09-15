@@ -1,16 +1,18 @@
-import './App.css';
-import { Topbar } from './components/Topbar/topbar';
-import { Content } from './components/Content/content';
-import { Footer } from './components/Footer/footer';
+import "./App.css";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import Login from "./components/Login/login.jsx";
+import "./components/Login/login.css";
+import Admin from "./Admin";
 
 function App() {
-    return (
-        <>
-            <Topbar />
-            <Content />
-            <Footer />
-        </>
-    );
+  return (
+    <Router>
+      <Routes>
+        <Route path="/" exact element={<Login />}></Route>
+        <Route path="/admin" element={Admin}></Route>
+      </Routes>
+    </Router>
+  );
 }
 
 export default App;
