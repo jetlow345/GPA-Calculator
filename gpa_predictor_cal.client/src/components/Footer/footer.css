@@ -1,24 +1,25 @@
 .footer {
-    background-color: #333; /* Dark background color for contrast */
-    color: #fff; /* White text color for readability */
-    padding: 20px; /* Padding inside the footer */
-    text-align: center; /* Center-align text */
-    position: relative; /* Ensures the footer is positioned correctly within its container */
-    bottom: 0; /* Make sure it's positioned at the bottom if the content is shorter */
-    width: 100%; /* Full width of the container */
-    box-sizing: border-box; /* Include padding in the element's total width and height */
+  background-color: #333; /* Dark background color for contrast */
+  color: #fff; /* White text color for readability */
+  padding: 15px; /* Padding inside the footer */
+  text-align: center; /* Center-align text */
+  position: fixed; /* Ensures the footer is positioned correctly within its container */
+  bottom: 0; /* Make sure it's positioned at the bottom if the content is shorter */
+  left: 0;
+  width: 100%; /* Full width of the container */
+  box-sizing: border-box; /* Include padding in the element's total width and height */
 }
 
-    .footer p {
-        margin: 0; /* Remove default margin */
-        font-size: 0.9rem; /* Adjust font size for readability */
-    }
+.footer p {
+  margin: 0; /* Remove default margin */
+  font-size: 0.9rem; /* Adjust font size for readability */
+}
 
-    .footer a {
-        color: #00aaff; /* Link color */
-        text-decoration: none; /* Remove underline from links */
-    }
+.footer a {
+  color: #00aaff; /* Link color */
+  text-decoration: none; /* Remove underline from links */
+}
 
-        .footer a:hover {
-            text-decoration: underline; /* Underline on hover for better user experience */
-        }
+.footer a:hover {
+  text-decoration: underline; /* Underline on hover for better user experience */
+}
